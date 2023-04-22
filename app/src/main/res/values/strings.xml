@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JoshAzureApi</string>
+    <string name="click_to_start">Click to start</string>
+    <string name="click_to_add" />
+    <string name="click_to_create">click to create</string>
+    <string name="click_to_create_field">click to create field</string>
+    <string name="click_to_view_data">Click to View Data</string>
+    <string name="click_to_update_field">Click to Update Field</string>
+    <string name="click_to_delete_a_field">Click to Delete a field</string>
+    <string name="click_to_update_a_field">click to update a field</string>
+    <string name="click_to_create_a_field">click to create a field</string>
+</resources>
